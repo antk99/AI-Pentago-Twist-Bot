@@ -1,4 +1,6 @@
-# pentago_twist
+# Pentago Twist
+
+In this project, I built an AI player for the Pentago Twist game using the Monte Carlo Tree Search algorithm.
 
 ![](https://github.com/SaminYeasar/pentago_twist/blob/main/image/game.gif)
 
